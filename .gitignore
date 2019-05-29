@@ -105,3 +105,4 @@ venv.bak/
 
 # config
 config.py
+client_secrets.json
